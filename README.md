@@ -1,3 +1,3 @@
 # DesktopApplictaion
 
-Desktop Application to manage a holiday club. Developed in c++ (MVC Desktop applications)
+Desktop Application to manage a holiday club. Developed in c++ (MFC Desktop applications)
